@@ -1,0 +1,14 @@
+#Utilice sólo las técnicas que aprendió en este capítulo para escribir un programa que calcule los cuadrados y los cubos de los números 0 a 10, y que utilice tabuladores para desplegar
+
+print( "Numero \t Cuadrado \t Cubo" )
+print(f"0 \t {0*0} \t {0*0*0}" )
+print(f"1 \t {1*1} \t {1*1*1}" )
+print(f"2 \t {2*2} \t {2*2*2}" )
+print(f"3 \t {3*3} \t {3*3*3}" )
+print(f"4 \t {4*4} \t {4*4*4}" )
+print(f"5 \t {5*5} \t {5*5*5}" )
+print(f"6 \t {6*6} \t {6*6*6}" )
+print(f"7 \t {7*7} \t {7*7*7}" )
+print(f"8 \t {8*8} \t {8*8*8}" )
+print(f"9 \t {9*9} \t {9*9*9}" )
+print(f"10 \t {10*10} \t {10*10*10}" )
